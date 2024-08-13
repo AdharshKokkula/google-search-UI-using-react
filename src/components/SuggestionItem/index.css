@@ -1,0 +1,8 @@
+.search-suggestion-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.arrow-icon {
+    height: 24px;
+}
